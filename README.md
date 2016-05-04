@@ -1,3 +1,3 @@
 # APEuroCalculator
 
-live at [ronakshah.net/euro](https://ronakshah.net/euro)
+live at [ronakshah.net/euro](http://ronakshah.net/euro)
