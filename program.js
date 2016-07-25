@@ -7,7 +7,7 @@ var saq4 = 3;
 var leq = 6;
 var dbq = 7;
 var ap = -1;
-
+score();
 function updateVar(type, value, totalAmount) {
 	if (value == "0") {
 		value = 0;
